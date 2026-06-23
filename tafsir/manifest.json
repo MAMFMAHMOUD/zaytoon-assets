@@ -25,7 +25,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 41869312,
     "size_compressed_bytes": 5749787,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "ar-tafsir-ibn-kathir",
@@ -53,7 +57,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 27344896,
     "size_compressed_bytes": 3229086,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "ar-tafseer-al-qurtubi",
@@ -81,7 +89,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 35061760,
     "size_compressed_bytes": 4781891,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "ar-tafsir-al-baghawi",
@@ -109,7 +121,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 16965632,
     "size_compressed_bytes": 2145908,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-jalalayn",
@@ -137,7 +153,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 4444160,
     "size_compressed_bytes": 574461,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-as-saadi",
@@ -165,7 +185,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 8605696,
     "size_compressed_bytes": 1320266,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "ar-tafseer-al-saddi",
@@ -193,7 +218,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 8617984,
     "size_compressed_bytes": 1252421,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "ar-tafsir-al-wasit",
@@ -221,7 +251,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 21061632,
     "size_compressed_bytes": 3141863,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "plain_text",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-al-razi",
@@ -249,7 +283,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 49573888,
     "size_compressed_bytes": 5753628,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "al-kashshaf-al-zamakhshari",
@@ -277,7 +316,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 12595200,
     "size_compressed_bytes": 2278838,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "ar-tafseer-tahrir-al-tanwir",
@@ -305,7 +348,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 51175424,
     "size_compressed_bytes": 6310233,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "arabic-al-mukhtasar-in-interpreting-the-noble-quran",
@@ -333,7 +381,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 2293760,
     "size_compressed_bytes": 477900,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "plain_text",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-durr-al-manthur",
@@ -361,7 +413,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 26836992,
     "size_compressed_bytes": 2803162,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "ar-tafsir-muyassar",
@@ -389,7 +445,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 2715648,
     "size_compressed_bytes": 535926,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-muyassar-fi-al-gharib",
@@ -417,7 +477,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 2007040,
     "size_compressed_bytes": 339527,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "abu-bakr-jabir-al-jazairi",
@@ -445,7 +509,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 8388608,
     "size_compressed_bytes": 1395719,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "adwa-al-bayan",
@@ -473,7 +541,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 39694336,
     "size_compressed_bytes": 2279692,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-bahr-al-muhit",
@@ -501,7 +573,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 34258944,
     "size_compressed_bytes": 4613196,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-basit",
@@ -529,7 +605,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 33611776,
     "size_compressed_bytes": 5261999,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-wajiz-wahidi",
@@ -557,7 +637,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 1572864,
     "size_compressed_bytes": 264849,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-dur-al-masun-lil-samin-al-halabi",
@@ -585,7 +669,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 18247680,
     "size_compressed_bytes": 2827341,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "al-i-rab-al-muyassar",
@@ -613,7 +702,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 12230656,
     "size_compressed_bytes": 863658,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "al-jadwal-fi-i-rab-al-quran",
@@ -641,7 +735,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 14290944,
     "size_compressed_bytes": 1575724,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "alrab-al-quran-li-da-as",
@@ -669,7 +768,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 10633216,
     "size_compressed_bytes": 668953,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "i-rab-al-quran-li-al-darwish",
@@ -697,7 +801,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 12795904,
     "size_compressed_bytes": 2179552,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-nashr-li-ibn-al-jazari",
@@ -725,7 +833,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 1617920,
     "size_compressed_bytes": 195475,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-qira-at-al-mawsoo-ah-al-qur-aniyyah",
@@ -753,7 +865,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 1372160,
     "size_compressed_bytes": 213113,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-lubab-fi-ulum-al-kitab",
@@ -781,7 +897,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 35332096,
     "size_compressed_bytes": 6289832,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "al-muharrar-al-wajiz-ibn-atiyyah",
@@ -809,7 +929,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 18952192,
     "size_compressed_bytes": 2583171,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "asseraj-fi-bayan-gharib-alquran",
@@ -837,7 +961,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 8605696,
     "size_compressed_bytes": 1320266,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "ayah-dependency-graphs",
@@ -865,7 +994,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 68571136,
     "size_compressed_bytes": 4918449,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "svg",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "tahlil-kalimat-al-qur-an",
@@ -893,7 +1027,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 21319680,
     "size_compressed_bytes": 508431,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "fath-al-bayan-li-al-qanuji",
@@ -921,7 +1060,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 19505152,
     "size_compressed_bytes": 3117010,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "fath-al-qadir-al-shawkani",
@@ -949,7 +1092,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 22421504,
     "size_compressed_bytes": 2735911,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "jamia-al-bayan-aliji",
@@ -977,7 +1124,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 4759552,
     "size_compressed_bytes": 835278,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "mahasin-al-ta-wil-al-qasimi",
@@ -1005,7 +1156,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 24612864,
     "size_compressed_bytes": 3130860,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "mawsoo-at-al-tafsir-al-ma-thoor",
@@ -1033,7 +1188,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 70098944,
     "size_compressed_bytes": 7987599,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "nazam-al-durar-al-biqa-i",
@@ -1061,7 +1221,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 33017856,
     "size_compressed_bytes": 4300898,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tadabbur-wa-amal",
@@ -1089,7 +1253,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 6303744,
     "size_compressed_bytes": 892140,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-abi-al-su-ood",
@@ -1117,7 +1285,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 20762624,
     "size_compressed_bytes": 2461786,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-al-alusi",
@@ -1145,7 +1317,12 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 60424192,
     "size_compressed_bytes": 7667772,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text",
+    "needs_manifest_review": true
   },
   {
     "id": "tafsir-al-baydawi",
@@ -1173,7 +1350,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 8511488,
     "size_compressed_bytes": 1045761,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-al-mawardi",
@@ -1201,7 +1382,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 9015296,
     "size_compressed_bytes": 1108086,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-al-nasafi",
@@ -1229,7 +1414,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 10764288,
     "size_compressed_bytes": 1374578,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-al-sam-ani",
@@ -1257,7 +1446,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 19677184,
     "size_compressed_bytes": 1263730,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-al-samarqandi",
@@ -1285,7 +1478,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 7757824,
     "size_compressed_bytes": 1225214,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-al-tha-alibi",
@@ -1313,7 +1510,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 11517952,
     "size_compressed_bytes": 2100348,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-ibn-abi-hatim",
@@ -1341,7 +1542,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 13324288,
     "size_compressed_bytes": 1118564,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-ibn-abi-zamanin",
@@ -1369,7 +1574,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 4513792,
     "size_compressed_bytes": 649284,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-ibn-al-jawzi",
@@ -1397,7 +1606,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 12500992,
     "size_compressed_bytes": 1565226,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-ibn-al-qayyim",
@@ -1426,7 +1639,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 20574208,
     "size_compressed_bytes": 3163142,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-ibn-juzay",
@@ -1454,7 +1671,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 4825088,
     "size_compressed_bytes": 781452,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-ibn-uthaymeen",
@@ -1482,7 +1703,11 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 23502848,
     "size_compressed_bytes": 3419094,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   },
   {
     "id": "tafsir-makhi",
@@ -1510,6 +1735,10 @@
     "compression": "zstd",
     "size_uncompressed_bytes": 11644928,
     "size_compressed_bytes": 1895187,
-    "asset_available": true
+    "asset_available": true,
+    "content_format": "html",
+    "table_name": "tafsir",
+    "ayah_key_column": "ayah_key",
+    "text_column": "text"
   }
 ]
